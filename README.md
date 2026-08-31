@@ -1,4 +1,6 @@
-# MCP Atlassian
+# ECONOMICHELP
+
+*(MCP Atlassian)*
 
 ![PyPI Version](https://img.shields.io/pypi/v/mcp-atlassian)
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/mcp-atlassian)
