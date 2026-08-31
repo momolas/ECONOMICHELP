@@ -1,4 +1,4 @@
-# MCP Atlassian
+# ECONOMICHELP (MCP Atlassian)
 
 > **Audience**: LLM-driven engineering agents
 
