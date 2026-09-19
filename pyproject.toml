@@ -51,6 +51,7 @@ packages = ["src/mcp_atlassian"]
 
 [project.scripts]
 mcp-atlassian = "mcp_atlassian:main"
+atlassian-mcp = "mcp_atlassian:main"
 
 [dependency-groups]
 dev = [
